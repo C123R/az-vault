@@ -1,0 +1,10 @@
+click
+colorama
+halo
+PTable
+pylint
+pyyaml
+azure-mgmt-keyvault
+haikunator
+keyring
+azure.keyvault
